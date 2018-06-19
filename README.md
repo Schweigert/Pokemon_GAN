@@ -1,8 +1,5 @@
 # pokeGAN
 
-## Overview
-This is the code for [this](https://youtu.be/yz6dNf7X7SA) video on Youtube by Siraj Raval. We'll use a WGAN to create new kinds of Pokemon. 
-
 ## Dependencies (pip install) 
 ```
 cv2
